@@ -1,3 +1,4 @@
 kafka zookeeper
 Hadoop Architecture
-Cloud computing with AWZ/Azure/GCP
+Cloud computing with AWZ/Azure
+RDS - Redshift - Dynamodb
